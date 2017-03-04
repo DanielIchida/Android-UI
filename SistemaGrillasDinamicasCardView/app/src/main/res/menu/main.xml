@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Grilla pequeña"
+        android:id="@+id/item_grilla_small"
+        android:showAsAction="never" />
+    <item android:title="Grilla Mediana"
+        android:id="@+id/item_grilla_medium"
+        android:showAsAction="never" />
+    <item android:title="Grilla Grande"
+        android:id="@+id/item_grilla_large"
+        android:showAsAction="never" />
+</menu>
