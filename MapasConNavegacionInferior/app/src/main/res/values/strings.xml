@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapas</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_acercamiento">Acercamiento</string>
+    <string name="title_capa">Capas</string>
+    <string name="title_puntos">Puntos</string>
+    <string name="api_key">TU CLAVE DE API</string>
+</resources>

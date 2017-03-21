@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_acercamiento"
+        android:icon="@drawable/ic_zoom_out_map_black_24dp"
+        android:title="@string/title_acercamiento" />
+
+    <item
+        android:id="@+id/navigation_capa"
+        android:icon="@drawable/ic_layers_black_24dp"
+        android:title="@string/title_capa" />
+
+    <item
+        android:id="@+id/navigation_puntos"
+        android:icon="@drawable/ic_place_black_24dp"
+        android:title="@string/title_puntos" />
+
+</menu>
