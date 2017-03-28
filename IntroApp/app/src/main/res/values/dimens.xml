@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img_size">120dp</dimen>
+    <dimen name="text_size">30dp</dimen>
+    <dimen name="contenedor_height">30dp</dimen>
+    <dimen name="contenedor_margin_bottom">20dp</dimen>
+</resources>

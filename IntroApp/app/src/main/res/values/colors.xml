@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Color de fondo de las ventanas -->
+    <color name="ventana1">#7fF44336</color>
+    <color name="ventana2">#7F3F51B5</color>
+    <color name="ventana3">#7F009688</color>
+    <color name="ventana4">#7FFF5722</color>
+
+</resources>

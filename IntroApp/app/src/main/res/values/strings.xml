@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntroApp</string>
+    <string name="title_ventana1">Peliculas</string>
+    <string name="title_ventana2">Natación</string>
+    <string name="title_ventana3">Restaurantes</string>
+    <string name="title_ventana4">Hoteles</string>
+    <string name="siguiente">siguiente</string>
+    <string name="saltar">saltar</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="intro">Intro</string>
+</resources>
