@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_list"
+        android:title="Listado" />
+    <item
+        android:id="@+id/action_grilla"
+        android:title="Grilla"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_pager"
+        android:title="ViewPager"
+        app:showAsAction="never" />
+</menu>
